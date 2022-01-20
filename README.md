@@ -22,7 +22,7 @@ I ported a given set of Libraries and convert their logic and implement them int
 Created a web-based application for school Database management. Here we have used HTML, CSS, javascript, and Php Myadmin.
 After this, we have made an android mobile app for the same.
 (Manage school database, student record, and marks, employee record, add new student, schedule test, etc)<br>
-[School Management Sysyem](https://github.com/abhik2712/SMS-SOFTWARE) \*I am available as a contributor\*
+[School Management Sysyem](https://github.com/abhik2712/SMS-SOFTWARE) \*I was one of the two contributors in this project\*
 
 ### Understanding Public Opinions of Regulations to Fight a Pandemic<br>
 Written a script to Collected data from Gab (gab.com), an uncensored alternative of Twitter, and did sentimental analysis on it about public opinion on Pandemic.
