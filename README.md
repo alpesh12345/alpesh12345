@@ -17,3 +17,18 @@ I ported a given set of Libraries and convert their logic and implement them int
 <br>
 ![ScreenShot](Intern_Star_of_Month_Certificate.png)
 <img src="https://github.com/alpesh12345/alpesh12345/blob/main/Contributor_Badge_ALPESH%20KAUSHAL.png" width="400" height="400">
+
+### Database Management System-Mini project<br>
+Created a web-based application for school Database management. Here we have used HTML, CSS, javascript, and Php Myadmin.
+After this, we have made an android mobile app for the same.
+(Manage school database, student record, and marks, employee record, add new student, schedule test, etc)<br>
+[School Management Sysyem](https://github.com/abhik2712/SMS-SOFTWARE) \*I am available as a contributor\*
+
+### Understanding Public Opinions of Regulations to Fight a Pandemic<br>
+Written a script to Collected data from Gab (gab.com), an uncensored alternative of Twitter, and did sentimental analysis on it about public opinion on Pandemic.
+
+
+###  Measuring and mitigating asymmetry in resources for Intimate partner violence (IPV)<br>
+#### Created Web scraper for Google, Bing, DuckDuckGo, Yahoo <br>
+Created this for the purpose of data collection and to figure out asymmetry in resources between abusers and victim. <br>
+[web-scrapping-automation](https://github.com/alpesh12345/web-scrapping-automation)
