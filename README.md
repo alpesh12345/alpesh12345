@@ -1,14 +1,18 @@
-### Hi there 👋
+## Hi there 👋
 
 - 📫 How to reach me: alpesh.kaushal@gmail.com
 - www.linkedin.com/in/alpesh-kaushal-42b763168
+- Currently working on project to <i><B>Predict reasons for COVID-19 vaccine hesitancy</B></i>
+<!--During the ongoing global pandemic, many companies and countries have been pushing their vaccines into the markets and people have widely varying responses and views about the ongoing vaccinations. During the vaccine distributions, many people have been expressing their views through social media platforms. There are several of these social media platforms to express one's view. One of them is <B>GAB.com</B> which revels in the freedom of speech it provides. It is known for allowing hate speech on its platform. We know Anti-vaccine attitudes are much more expressed on anonymous platforms like Gab.<br><br>-->
+- This project aims to collect all related relevant data from GAB.com and build a  classifier to classify these types of statements of gab.com into relative categories.
+
 
 ## I worked on <br>
 ### Cloud Computing Project<br>
 Created a file-sharing system by Django Framework and hosted it on AWS. We had written client/server-side for file transfer in python (Socket Programming) and integrated it into the website with Django. We used HTML, CSS, Javascript for the frontend and making the website dynamic.
 [Cloud file transfer Web Application](https://github.com/alpesh12345/Cloud_file_transfer_django_webapp)
 
-### I contributed to OpenSource this summer<br>
+### Contributed to OpenSource this summer<br>
 I ported a given set of Libraries and convert their logic and implement them into working Libraries supporting App Development in HarmonyOS  and contributing them to the Application Library Group.
 <br>
 [StripedProcessButton](https://github.com/applibgroup/StripedProcessButton)
