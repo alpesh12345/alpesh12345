@@ -2,9 +2,11 @@
 
 - 📫 How to reach me: alpesh.kaushal@gmail.com
 - www.linkedin.com/in/alpesh-kaushal-42b763168
-- Currently working on project to <i><B>Predict reasons for COVID-19 vaccine hesitancy</B></i>
+- My Masters Project, (nominated for best practical work award), <i><B>Predicting near future number of covid cases using social media</B></i>
+- Worked on project to <i><B>Predict reasons for COVID-19 vaccine hesitancy</B></i><br>
 <!--During the ongoing global pandemic, many companies and countries have been pushing their vaccines into the markets and people have widely varying responses and views about the ongoing vaccinations. During the vaccine distributions, many people have been expressing their views through social media platforms. There are several of these social media platforms to express one's view. One of them is <B>GAB.com</B> which revels in the freedom of speech it provides. It is known for allowing hate speech on its platform. We know Anti-vaccine attitudes are much more expressed on anonymous platforms like Gab.<br><br>-->
-- This project aims to collect all related relevant data from GAB.com and build a  classifier to classify these types of statements of gab.com into relative categories.
+
+- This project aims to collect all related relevant data from GAB.com and build a  classifier to classify these types of statements of gab.com into relative categories, reasons why people were rejecting vacination.
 
 
 ## I worked on <br>
