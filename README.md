@@ -1,40 +1,80 @@
-## Hi there 👋
+# Alpesh Kaushal
 
-- 📫 How to reach me: alpesh.kaushal@gmail.com
-- www.linkedin.com/in/alpesh-kaushal-42b763168
-- My Masters Project, (nominated for best practical work award), <i><B>Predicting near future number of covid cases using social media</B></i>
-- Worked on project to <i><B>Predict reasons for COVID-19 vaccine hesitancy</B></i><br>
-<!--During the ongoing global pandemic, many companies and countries have been pushing their vaccines into the markets and people have widely varying responses and views about the ongoing vaccinations. During the vaccine distributions, many people have been expressing their views through social media platforms. There are several of these social media platforms to express one's view. One of them is <B>GAB.com</B> which revels in the freedom of speech it provides. It is known for allowing hate speech on its platform. We know Anti-vaccine attitudes are much more expressed on anonymous platforms like Gab.<br><br>-->
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=alpesh12345) -->
+![GitHub followers](https://img.shields.io/github/followers/alpesh12345?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/alpesh12345?label=Stars&style=social)
+![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen)
 
-- This project aims to collect all related relevant data from GAB.com and build a  classifier to classify these types of statements of gab.com into relative categories, reasons why people were rejecting vacination.
+## 👨‍💻 About Me
 
+I am an experienced Backend Developer with a strong background in designing and implementing scalable, high-performance systems. My primary expertise lies in Go (Golang) and Java. I have consistently demonstrated success in both developing and leading software development projects. Additionally, I have contributed to the open-source community as well.
 
-## I worked on <br>
-### Cloud Computing Project<br>
-Created a file-sharing system by Django Framework and hosted it on AWS. We had written client/server-side for file transfer in python (Socket Programming) and integrated it into the website with Django. We used HTML, CSS, Javascript for the frontend and making the website dynamic.
-[Cloud file transfer Web Application](https://github.com/alpesh12345/Cloud_file_transfer_django_webapp)
+## 🛠️ Skills
 
-### Contributed to OpenSource this summer<br>
-I ported a given set of Libraries and convert their logic and implement them into working Libraries supporting App Development in HarmonyOS  and contributing them to the Application Library Group.
-<br>
-[StripedProcessButton](https://github.com/applibgroup/StripedProcessButton)
-&emsp;
-[Bounceview-Ohos](https://github.com/applibgroup/Bounceview-Ohos)
-<br>
-![ScreenShot](Intern_Star_of_Month_Certificate.png)
-<img src="https://github.com/alpesh12345/alpesh12345/blob/main/Contributor_Badge_ALPESH%20KAUSHAL.png" width="400" height="400">
+- **Languages:** Go (Proficient), Java (Proficient), C/C++ (Proficient), Python, JavaScript, PHP, HTML, XML
+- **Frameworks and Tools:** Gin, GORM, Java Spring Boot, Docker, Prometheus, VictoriaMetrics, Grafana, AWS, Google Cloud Platform
+- **Databases:** PostgreSQL
+- **Other Technologies:** Shell Script, Beautiful Soup, Django, Selenium (Automation), Node.js
+- **Coursework:** Data Structures and Algorithms, Object-Oriented Programming, Operating Systems, Database Management Systems, Computer Networking, Cloud Computing, Computer Architecture, Compiler Design, Automata Theory, Image Processing, Artificial Intelligence, Natural Language Processing
 
-### Database Management System-Mini project<br>
-Created a web-based application for school Database management. Here we have used HTML, CSS, javascript, and Php Myadmin.
-After this, we have made an android mobile app for the same.
-(Manage school database, student record, and marks, employee record, add new student, schedule test, etc)<br>
-[School Management Sysyem](https://github.com/abhik2712/SMS-SOFTWARE) \*I was one of the two contributors in this project\*
+## 💼 Experience
 
-### Understanding Public Opinions of Regulations to Fight a Pandemic<br>
-Written a script to Collected data from Gab (gab.com), an uncensored alternative of Twitter, and did sentimental analysis on it about public opinion on Pandemic.
+### Tap Invest (Fintech Startup), Bangalore, India
+**Software Development Engineer-2 (SDE-2)** | Mar 2024 – Present
+- 📈 Designed and implemented a comprehensive event management system to route data and events to various third-party services, enhancing marketing, product tracking, and relationship management processes.
+- 🏆 Led the integration of a digital gold buy-sell feature on our platform, contributing to a substantial increase in assets under management by ₹50 crores.
+- 🔄 Improved features for investment and payout operations, ensuring a seamless user experience.
+- **Technologies:** Java, Spring Boot, Go (Golang), PostgreSQL, AWS, EKS
 
+### slice (Unicorn Fintech), Bangalore, India
+**Software Development Engineer-2 (SDE-2)** | May 2023 – Feb 2024
+- 🛠️ Led the development of a system for generating production-like data in lower environments, enabling effective load testing and ensuring feature reliability before production deployment.
+- ⚙️ Orchestrated the migration of the communication service from ECS to EKS, optimizing resource efficiency and scalability.
+- 📊 Improved observability and scalability with custom metrics in VictoriaMetrics.
+- **Technologies:** Go (Golang), Gin Framework, GORM, PostgreSQL, Prometheus, Victoria Metrics, Grafana, Elastic APM, Sonarqube, Postman, Docker, AWS, EKS
 
-###  Measuring and mitigating asymmetry in resources for Intimate partner violence (IPV)<br>
-#### Created Web scraper for Google, Bing, DuckDuckGo, Yahoo <br>
-Created this for the purpose of data collection and to figure out asymmetry in resources between abusers and victim. <br>
-[web-scrapping-automation](https://github.com/alpesh12345/web-scrapping-automation)
+**Software Development Engineer** | June 2022 – April 2023
+- 🔧 Developed Golang boilerplate and contributed to the common library with an HTTP client wrapper.
+- 🚀 Led the development of the User Service project, delivering critical features and managing onboarding/offboarding processes.
+- 🔍 Streamlined the onboarding funnel, reducing the drop-off rate from 9% to 6%.
+- **Technologies:** Go (Golang), Gin Framework, GORM, PostgreSQL, Prometheus, Victoria Metrics, Grafana, Elastic APM, Sonarqube, Postman, Docker, AWS, EKS
+
+### Huawei Technologies India Pvt Ltd, Bangalore, India
+**Software Development Engineer (Intern)** | May 2021 – July 2021
+- 🔄 Ported and implemented Libraries supporting App Development in HarmonyOS.
+- 🌟 Created the StripedProcessButton and Bounceview-Ohos Library, published to the Maven repository.
+- 🏅 Awarded the **Star of the Month** for contributions during the internship.
+
+## 🌟 Open Source Contributions
+
+<!-- - ![Open Source Contributor](Intern_Star_of_Month_Certificate.png) -->
+<p align="center">
+  <img src="Contributor_Badge_ALPESH_KAUSHAL.png" alt="Contributor badge" width="200"/>
+</p>
+
+- [StripedProcessButton](https://github.com/applibgroup/StripedProcessButton): HarmonyOS library that provides an Animated striped button to show the loading process.
+- [Bounceview-Ohos](https://github.com/applibgroup/Bounceview-Ohos): Customizable bounce animation for any view.
+
+## 🎓 Education
+
+**Indian Institute of Technology (IIT) Kharagpur**, Kharagpur, India
+- Bachelors and Masters in Computer Science and Engineering (2017 - 2022)
+
+## 🏆 Master Project
+
+### Analysis of COVID-19 Related Social Media Posts
+**MTech Project** | Jan 2022 - Apr 2022
+- 📊 Examined vaccine hesitancy posts and developed a classifier to assist in addressing connected issues and myths.
+- 📈 Extracted data from gab.com to analyze symptom reporting tweets and forecast the number of COVID cases, creating a classifier to categorize the data.
+- 📈 Created timeseries graphs and created a pridictor for next covid wave based on the social media activites related to covid.
+- My project was nominated for **Best practical orientied award** by the Indian Institute of Technology (IIT) Kharagpur.
+
+## 📫 Contact
+
+- **Email:** [alpesh.kaushal@gmail.com](mailto:alpesh.kaushal@gmail.com)
+- **LinkedIn:** [Alpesh Kaushal](https://www.linkedin.com/in/alpesh-kaushal-42b763168/)
+- **GitHub:** [alpesh12345](https://github.com/alpesh12345)
+
+---
+
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
