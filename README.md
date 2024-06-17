@@ -9,6 +9,12 @@
 
 I am an experienced Backend Developer with a strong background in designing and implementing scalable, high-performance systems. My primary expertise lies in Go (Golang) and Java. I have consistently demonstrated success in both developing and leading software development projects. Additionally, I have contributed to the open-source community as well.
 
+## 🎓 Education
+
+**Indian Institute of Technology (IIT) Kharagpur**, Kharagpur, India
+- Bachelors and Masters in Computer Science and Engineering (2017 - 2022)
+
+
 ## 🛠️ Skills
 
 - **Languages:** Go (Proficient), Java (Proficient), C/C++ (Proficient), Python, JavaScript, PHP, HTML, XML
@@ -54,11 +60,6 @@ I am an experienced Backend Developer with a strong background in designing and 
 
 - [StripedProcessButton](https://github.com/applibgroup/StripedProcessButton): HarmonyOS library that provides an Animated striped button to show the loading process.
 - [Bounceview-Ohos](https://github.com/applibgroup/Bounceview-Ohos): Customizable bounce animation for any view.
-
-## 🎓 Education
-
-**Indian Institute of Technology (IIT) Kharagpur**, Kharagpur, India
-- Bachelors and Masters in Computer Science and Engineering (2017 - 2022)
 
 ## 🏆 Master Project
 
